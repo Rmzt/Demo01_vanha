@@ -9,6 +9,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		harj1.cs = harj1.cs
 		harj2.cs = harj2.cs
+		harj3.cs = harj3.cs
+		harj4.cs = harj4.cs
+		harj5.cs = harj5.cs
+		harj6.cs = harj6.cs
+		harj7.cs = harj7.cs
+		harj8.cs = harj8.cs
+		vaihtolajittelu.cs = vaihtolajittelu.cs
 	EndProjectSection
 EndProject
 Global
