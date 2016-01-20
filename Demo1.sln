@@ -1,13 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo1", "Demo1.csproj", "{71DC0F6F-57C3-47DC-8AB2-EB753733B9AC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{48433F9B-D3F5-4EFA-9230-324943844E8D}"
 	ProjectSection(SolutionItems) = preProject
 		harj1.cs = harj1.cs
+		harj10.cs = harj10.cs
+		harj11.cs = harj11.cs
+		harj12.cs = harj12.cs
+		harj13.cs = harj13.cs
 		harj2.cs = harj2.cs
 		harj3.cs = harj3.cs
 		harj4.cs = harj4.cs
@@ -15,6 +19,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		harj6.cs = harj6.cs
 		harj7.cs = harj7.cs
 		harj8.cs = harj8.cs
+		harj9.cs = harj9.cs
 		vaihtolajittelu.cs = vaihtolajittelu.cs
 	EndProjectSection
 EndProject
