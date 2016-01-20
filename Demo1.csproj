@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="harj10.cs" />
+    <Compile Include="harj11.cs" />
+    <Compile Include="harj12.cs" />
+    <Compile Include="harj13.cs" />
     <Compile Include="harj14.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
